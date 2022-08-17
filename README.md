@@ -1,5 +1,6 @@
-# 💫 About Me:
-I am Manan Bansal , currently working in react js and svelte js <br>Looking for collaboration in Front-end-design;<br><br>  Competitive links : <br>                                                    [    Codeforces   ](https://codeforces.com/profile/manan.bansal.1806) |
+# 💫 About Me:  [![](https://visitcount.itsvg.in/api?id=mananbansal2002&icon=9&color=1)](https://visitcount.itsvg.in)
+---
+-> I am Manan Bansal , currently working in react js and svelte js <br>-> Looking for collaboration in Front-end-design.<br><br>  Competitive links : <br>                                                    [    Codeforces   ](https://codeforces.com/profile/manan.bansal.1806) |
                                      [  Codechef     ](https://www.codechef.com/users/manan1806)               |                 [    Leetcode    ](https://leetcode.com/1806manan/)                              <br><br>
 
 
@@ -25,7 +26,7 @@ I am Manan Bansal , currently working in react js and svelte js <br>Looking for 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mananbansal2002&icon=9&color=1)](https://visitcount.itsvg.in)
+
 
 
 
