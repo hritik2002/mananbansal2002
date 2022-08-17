@@ -1,6 +1,9 @@
+
+
 # 💫 About Me:  [![](https://visitcount.itsvg.in/api?id=mananbansal2002&icon=9&color=1)](https://visitcount.itsvg.in)
 ---
--> I am Manan Bansal , currently working in react js and svelte js <br>-> Looking for collaboration in Front-end-design.<br><br>  Competitive links : <br>                                                    [    Codeforces   ](https://codeforces.com/profile/manan.bansal.1806) |
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=700&color=F76D2C&background=000000&vCenter=true&width=435&lines=I+am+Manan+Bansal.;I+am+a+Front+end+Developer.;My+passion+is+Compettive+programming.+)](https://git.io/typing-svg)<br>
+-> currently working in react js and svelte js <br>-> Looking for collaboration in Front-end-design.<br><br>  Competitive links : <br>                                                    [    Codeforces   ](https://codeforces.com/profile/manan.bansal.1806) |
                                      [  Codechef     ](https://www.codechef.com/users/manan1806)               |                 [    Leetcode    ](https://leetcode.com/1806manan/)                              <br><br>
 
 
@@ -28,9 +31,7 @@
 ---
 
 
-
-
-
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=mananbansal2002&bg_color=000000&color=00ff11&line=1dfa00&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
